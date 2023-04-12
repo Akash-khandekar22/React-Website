@@ -1,0 +1,25 @@
+.card-title{
+    color:blue;
+    text-decoration: solid;
+    font-weight: bold;
+}
+
+.card{
+    height: 10px;
+    transition: all 0.5s;
+
+}
+
+.card:hover {
+    transform: scale(1.1);
+    
+}
+
+.service{
+    margin:0px;
+}
+
+.bgcolor {
+    background-color: #363cee;
+}
+

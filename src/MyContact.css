@@ -1,0 +1,36 @@
+.main_div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 450px;
+
+}
+.Myform{
+    width:350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom:10px ;
+    padding-left: 20px;
+    padding-right: 10px;
+    border: solid 1px lightgrey;
+}
+.mycheck{
+    color:grey;
+
+}
+
+label{
+    color:blue;
+    font-weight: bold;
+
+}
+h3{
+    color:black;
+    text-align: center;
+}
+.bgcolor {
+    background-color: #0c108d;
+}
